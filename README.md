@@ -1,5 +1,8 @@
 # 💫 About Me:
-💼 Hoje estou estágiando como Desenvolvedor Full-Stack <br><br>🏫 Estou no ultimo período de Engenharia de Software <br><br>📘 Hoje em dia, estou mais focado em Front-end, porém não deixo de estudar Back-end para conseguir evoluir igualmente <br><br>📩 Meu melhor email: contato.andrezambroni@gmail.com <br>
+💼 Hoje estou estágiando como Desenvolvedor Full-Stack <br>
+<br>🏫 Estou no ultimo período de Engenharia de Software <br>
+<br>📘 Hoje em dia, estou mais focado em Front-end, porém não deixo de estudar Back-end para conseguir evoluir igualmente <br>
+<br>👨🏽‍💻 Apaixonado por tecnologia,inovação e criatividade  <br>
 
 
 </div>
