@@ -29,9 +29,9 @@
 <p><strong>Ferramentas</strong></p>
 <img src="https://skillicons.dev/icons?i=figma,git,postman,insomnia&theme=dark" />
 
-
+<!--
 # 📊 GitHub Stats:
-
+-->
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=andrezambroni&theme=dark&hide_border=false) |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrezambroni&theme=dark)
@@ -39,11 +39,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezambroni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=andrezambroni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 -->
- | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrezambroni&theme=dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezambroni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |  
+<!-- | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrezambroni&theme=dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezambroni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |  
 | :-: | :-: | 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrezambroni&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=andrezambroni&theme=dark&hide_border=false)  |
-| :-: | :-: |
+| :-: | :-: |-->
 
 
 <!--
@@ -51,8 +51,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=andrezambroni&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 -->
-
+<!--
 ---
 [![](https://visitcount.itsvg.in/api?id=andrezambroni&icon=0&color=4)](https://visitcount.itsvg.in)
-
+-->
 
