@@ -3,7 +3,7 @@
 🎓 Engenheiro de Software<br> 
 🎯 Quality Assurance Analyst | QA | Analista de Qualidade <br>   
 👨🏽‍💻 Desenvolvedor Full Stack <br>   
-🧠 Apaixonado por tecnologia, inovação e criatividade  <br>
+🧠 Apaixonado por tecnologia, inovação, desafios e criatividade  <br>
 
 <br>
 <a href="https://www.linkedin.com/in/andrezambroni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" target="_blank"></a>  <a href = "mailto:contatoandrezambroni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="32" target="_blank"></a>
