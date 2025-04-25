@@ -1,6 +1,8 @@
 
 <p><strong>👋 Meu nome é André Zambroni, seja bem vindo!</strong></p>
-👨🏽‍💻 Engenheiro de Software<br>
+🎓 Engenheiro de Software<br> 
+🎯 Quality Assurance Analyst | QA | Analista de Qualidade <br>   
+👨🏽‍💻 Desenvolvedor Full Stack <br>   
 🖥 Apaixonado por tecnologia, inovação e criatividade  <br>
 
 <br>
@@ -15,19 +17,24 @@
 
 <p><strong>Minhas Tecnologias</strong></p>
 
-<img src="https://skillicons.dev/icons?i=java,nodejs,react&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=cypress,selenium,gherkin&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,vite&theme=dark"/>
 
 
+<img src="https://skillicons.dev/icons?i=java,spring,kafka&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,spring,html,css,tailwind,bootstrap,docker&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=python,html,css,tailwind,bootstrap,&theme=dark" />
 
 
 <p><strong>Banco de dados</strong></p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
 
 
 <p><strong>Ferramentas</strong></p>
-<img src="https://skillicons.dev/icons?i=figma,git,postman,insomnia&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,figma,git,github,githubactions,gitlab,postman,insomnia&theme=dark" />
 
 <!--
 # 📊 GitHub Stats:
